@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Unit Testing Menggunakan PHPUnit"
+title:  "PHPUnit: Unit Testing Dasar"
 date:   2017-11-21 09:21:28 +0700
 categories: programming php
-tags: php unit-test programming tdd
+tags: php unit-test programming tdd test
 ---
 
 [PHPUnit](https://phpunit.de) adalah tools yang populer untuk melakukan unit testing di PHP. Library yang ada cukup lengkap mulai dari _assertion_ dan _mocking_. Setupnya sendiri cukup mudah dengan menggunakan tools [composer](https://getcomposer.org).
