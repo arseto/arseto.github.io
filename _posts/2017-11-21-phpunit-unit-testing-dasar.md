@@ -140,6 +140,8 @@ class EmployeeTest extends PHPUnit\Framework\TestCase
 }
 ```
 
+Pada test ini kita menggunakan _assertion_ `assertEquals` yang membandingkan antara nilai ekspektasi dengan nilai aktual. Nilai ekspektasi dapat diambil dari variabel langsung, karena pada kasus ini kita hanya mengetes fungsio _getter_ yang fungsinya mengambil atribut yang ada di dalam objek. Dokumentasi apa saja _assertion_ yang dapat digunakan bisa dilihat lebih lengkap di situs [PHPUnit](https://phpunit.de/manual/current/en/writing-tests-for-phpunit.html).
+
 ## Menjalankan Test
 
 Menjalankan test dengan PHPUnit sebelumnya harus mengkonfigurasi file mana yang akan di-_execute_ ketika akan menjalankan test. Cara paling _basic_ adalah menjalankan test di dalam struktur direktori, atau jika dibutuhkan konfigurasi yang lebih lengkap bisa dengan menggunakan f ile konfigurasi `phpunit.xml`.
