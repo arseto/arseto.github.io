@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Saya adalah full time backend/desktop developer yang memiliki pengalaman baik di pemrograman aplikasi enterprise maupun website publik sebagai backend engineer.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Saya memiliki passion untuk membuat kode program yang berkualitas, dan melihat coding sebagai bentuk seni yang menerjemahkan keinginan manusia menjadi kode yang dapat difahami dan dijalankan oleh mesin.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
