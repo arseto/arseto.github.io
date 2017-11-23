@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PHPUnit (2): Generate Test Data"
+title:  "PHPUnit - Generate Test Data"
 date:   2017-11-21 16:37:28 +0700
 categories: programming php
 tags: php unit-test programming tdd faker test

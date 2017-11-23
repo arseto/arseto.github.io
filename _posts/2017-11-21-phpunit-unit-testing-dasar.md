@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PHPUnit: Unit Testing Dasar"
+title:  "PHPUnit - Unit Testing Dasar"
 date:   2017-11-21 09:21:28 +0700
 categories: programming php
 tags: php unit-test programming tdd test
