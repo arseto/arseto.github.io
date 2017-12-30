@@ -66,4 +66,6 @@ Bagaimana bisa seperti ini? Fitur dari VIM yang ditonjolkan pada post ini adalah
 
 Dan ini hanya sebagian kecil dari kemampuan VIM, masih banyak fitur-fitur lainnya yang mempermudah _hidup_ sebagai programmer, seperti syntax highlighting, auto complete, fuzzy search, git integration, dan lain lain.
 
+Maka dari itu, kebanyakan orang yang sudah terbiasa dengan VIM akan balik bertanya: kok kalian bisa sih, hidup tanpa VIM? hehe. Saking bingungnya, text editor lain pun mengadopsi [vim mode](https://stackoverflow.com/questions/700186/text-editors-with-vim-mode) meskipun tidak se-powerful aslinya.
+
 Semoga bermanfaat. Happy Hacking!
