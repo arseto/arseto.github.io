@@ -60,7 +60,7 @@ vs
 
 **A** - VIM = (29 + 2x) - (12 + x) = 17 + x
 
-Hasilnya adalah 15 + x keystroke lebih sedikit untuk VIM. Jika ini dilakukan 4 kali maka perbedaannya adalah 60 keystroke lebih. Ini hanyalah sebagian kecil dan perhitungan kasar dari sebuah contoh kasus, yang terjadi mungkin kurang dari 2 menit (dengan VIM mungkin kurang dari 1 menit untuk melakukan semua). Bayangkan penghematan yang dapat dilakukan dalam sesi coding dalam 1 hari.
+Hasilnya adalah 17 + x keystroke lebih sedikit untuk VIM. Jika ini dilakukan 4 kali maka perbedaannya adalah 60 keystroke lebih. Ini hanyalah sebagian kecil dan perhitungan kasar dari sebuah contoh kasus, yang terjadi mungkin kurang dari 2 menit (dengan VIM mungkin kurang dari 1 menit untuk melakukan semua). Bayangkan penghematan yang dapat dilakukan dalam sesi coding dalam 1 hari.
 
 Bagaimana bisa seperti ini? Fitur dari VIM yang ditonjolkan pada post ini adalah _modal editing_, yang tulisan mengenainya Insya Allah menyusul.
 
