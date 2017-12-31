@@ -46,19 +46,19 @@ vs
 
 ## Rename assignment
 
-VIM: `wwwce[Ketik nama baru:x karakter][Esc]www.` (10 + x keystroke)
+VIM: `3wce[Ketik nama baru:x karakter][Esc]3w.` (8 + x keystroke)
 
 ![Vim repeat]({{ "/assets/img/vim_repeat.gif" }})
 
 vs
 
-**A**: `[Ctrl+->][Ctrl+->][Ctrl+->][Shift+Ctrl+->][Ketik nama baru:x karakter][Shift+Ctrl+->][Shift+Ctrl+->][Shift+Ctrl+->][Shift+Ctrl+->][Ketik nama baru:x karakter lagi]` (18 + 2x keystroke)
+**A**: `[Ctrl+->][Ctrl+->][Ctrl+->][Shift+Ctrl+->][Ketik nama baru:x karakter][Ctrl+->][Ctrl+->][Ctrl+->][Shift+Ctrl+->][Ketik nama baru:x karakter lagi]` (18 + 2x keystroke)
 
 ![Atom repeat]({{ "/assets/img/atom_repeat.gif" }})
 
 ## Result
 
-**A** - VIM = (29 + 2x) - (14 + x) = 15 + x
+**A** - VIM = (29 + 2x) - (12 + x) = 17 + x
 
 Hasilnya adalah 15 + x keystroke lebih sedikit untuk VIM. Jika ini dilakukan 4 kali maka perbedaannya adalah 60 keystroke lebih. Ini hanyalah sebagian kecil dan perhitungan kasar dari sebuah contoh kasus, yang terjadi mungkin kurang dari 2 menit (dengan VIM mungkin kurang dari 1 menit untuk melakukan semua). Bayangkan penghematan yang dapat dilakukan dalam sesi coding dalam 1 hari.
 
