@@ -8,7 +8,7 @@ tags: editor vim
 
 Ketika pertama kali membuka vim, orang yang tidak terbiasa akan bingung karena ketika tombol keyboard ditekan, bukannya karakter yang tertulis di layar, tetapi malah kursor berpindah entah ke mana, atau malah ada karakter yang terhapus, atau ter-copy. Saking bingungnya, sejuta orang (sampai terakhir data diambil) [mencari jalan keluar dari vim](https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/).
 
-![exit vim](https://www.memecreator.org/static/images/memes/4664109.jpg)
+![exit vim]({{ "/assets/img/exit_vim.jpg" }})
 
 *Exit VIM*
 
