@@ -3,6 +3,7 @@ layout: post
 title:  "Clean Architecture: Konsep Dasar"
 date:   2018-03-28 16:00:00 +0700
 categories: programming
+comments: true
 tags: programming clean-architecture inversion-of-control
 ---
 
